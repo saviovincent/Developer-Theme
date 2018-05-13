@@ -1,8 +1,8 @@
 /*!
  * GitHub Activity Stream - v0.1.4 - 10/7/2015
- * https://github.com/caseyscarborough/github-activity
+ * https://github.com/saviovincent/github-activity
  *
- * Copyright (c) 2015 Casey Scarborough
+ * Copyright (c) 2018 Savio Vincent
  * MIT License
  * http://opensource.org/licenses/MIT
  */
